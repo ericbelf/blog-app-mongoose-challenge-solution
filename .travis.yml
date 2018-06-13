@@ -8,3 +8,4 @@ deploy:
 app: boiling-gorge-86719
 on: 
 repo: ericbelf/blog-app-mongoose-challenge-solution
+branch: feature/tests
